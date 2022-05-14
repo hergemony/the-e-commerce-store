@@ -1,4 +1,4 @@
-## THE E-COMMERCE STORE ##
+## THE E-COMMERCE STORE 🛍️ 🛒 📮 ##
 
 ## Description
 This project utilises Object-Relational Mapping (ORM) to create an E-Commerce Back End. The fundamental architecture of E-commerce platforms is important to full-stack web developers due to the prevalence of the internet retail sector.
@@ -20,12 +20,12 @@ Git clone the repository into your terminal.
 
 ## Screenshot
 
-![alt text](https://github.com/hergemony/teamprofilegenerator/blob/main/dist/assets/images/Screen%20Shot%202022-05-02%20at%2010.34.00%20pm.png?raw=true)
+![alt text](https://github.com/hergemony/)
 
-![alt text](https://github.com/hergemony/teamprofilegenerator/blob/main/dist/assets/images/Screen%20Shot%202022-05-03%20at%202.05.00%20pm.png?raw=true)
+![alt text](https://github.com/hergemony/?raw=true)
 
 ## Video
-[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/NLbe0qbgSQ4)
+[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/)](https://youtu.be/
 
 
 ## Features
@@ -33,9 +33,13 @@ Git clone the repository into your terminal.
 
 ## Credits
 https://stackoverflow.com
+
 https://w3schools.com
+
 https://github.com/sam-ngu
+
 https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
+
 
 ## Questions
 Any questions, please email hergemony@gmail.com
