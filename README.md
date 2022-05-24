@@ -1,5 +1,5 @@
 ## THE E-COMMERCE STORE 🛍️ 🛒 📮 ##
-Hello!
+Hello! xx
 ## Description
 This project utilises Object-Relational Mapping (ORM) to create an E-Commerce Back End. The fundamental architecture of E-commerce platforms is important to full-stack web developers due to the high prevalence of the internet retail sector.
 
